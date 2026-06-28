@@ -3,7 +3,7 @@
 #Rules: 1. It should be start with alphabets and underscore.
 #       2. keywords are not allow as variables
 #       3. It should bn free of spaces 
-#       4. It contains numbers,alphabets and undergoes
+#       4. It contains numbers,alphabets and underscore
 #ex: _name,age,_1,_2_name etc are correct
 #    print,with,1name,2_,and etc are wrong
 
