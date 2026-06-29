@@ -48,7 +48,7 @@
 #  dict is used store key-value pair.
 #  dict={key:value}
 #  Ex:- movie={
-#        "name": "ironman";
+#        "name": "ironman",
 #        "hero": "tony stark" 
 #              } 
 
