@@ -29,13 +29,13 @@
 # range 
 # Ex: range(end), range(start, end), range(start, stop, step)
 # range(3) #0,1,2,
-# range(1,5) #2,3,4
-# range(1, 5, 3) #2,4
+# range(1,5) #1,2,3,4
+# range(1, 5, 3) #1,4
 
 #5. Set type:-
 # It is used store unique values only
 # Ex:- a={1,2,3}
-#      b={3.4.5}
+#      b={3,4,5}
 #      print(a | b) #union
 #      #{1,2,3,4,5}
 #      print(a & b) #intersection
@@ -46,17 +46,17 @@
 
 #6. Mapping type:-
 #  dict is used store key-value pair.
-#  dict={key:value}
+#  dict_name={key:value,}
 #  Ex:- movie={
 #        "name": "ironman",
-#        "hero": "tony stark" 
+#        "hero": "tony stark", 
 #              } 
 
 #7. Binary type:-
 # it is used to handle raw data
 # _01= b'hello' (bytes is immutable)
-# _o2= bytearray(b"hello) (bytearray is mutable)
-# _03= memoryview(b"hello)
+# _O2= bytearray(b"hello") (bytearray is mutable)
+# _03= memoryview(b"hello")
 
 #8.None type:-
 # It is used to represent empty value

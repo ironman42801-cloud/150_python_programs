@@ -8,7 +8,7 @@ a, b, c = 3, 4, 5
 print(x, y, z)
 #output:- 10 10 10
 print(a, b, c)
-#output:- 3 4  5
+#output:- 3 4 5
 
 #Real life example
 #Same section students

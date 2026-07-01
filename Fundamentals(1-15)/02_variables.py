@@ -5,7 +5,7 @@
 #       3. It should bn free of spaces 
 #       4. It contains numbers,alphabets and underscore
 #ex: _name,age,_1,_2_name etc are correct
-#    print,with,1name,2_,and etc are wrong
+#    and,not,is,with,1name,2_,and etc are wrong
 
 name="ironman"
 age=19
